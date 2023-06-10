@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 
  ENV PACKER_VERSION 1.6.1
 
